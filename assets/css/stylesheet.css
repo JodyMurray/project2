@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Gideon+Roman&family=Luxurious+Roman&display=swap');
+
+
+* {
+    background-color: #f7f7f7;
+    margin: 0 auto;
+}
+h1 {
+    font-family: 'Gideon Roman', 'Luxurious Roman';
+    text-align: center;
+    font-size: 55px;
+    color: #36013f;
+    margin: 10px;
+}
+
+#question {
+    font-family: 'Gideon Roman', 'Luxurious Roman';
+    text-align: center;
+    font-size: 30px;
+}
+#input {
+    position: relative;
+    display: block;
+    margin: 10px auto;
+    top: 10px;
+    border-radius: 5px;
+    border: gray 2px solid;
+    width: 200px;
+    height: 25px;
+}
+div img {
+    position: relative;
+    left: 25%;
+    top: 30px;
+    width: 50%;
+    height: 50%;
+    background-color: #fff;
+    opacity: 80%;
+}
+  
